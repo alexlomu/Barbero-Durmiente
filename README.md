@@ -72,7 +72,7 @@ El código propueto es el siguiente:
            
            
            
-El output recivido es el siguiente:
+El output recibido es el siguiente:
     
     El barbero está durmiendo...
     Cliente esperando...
